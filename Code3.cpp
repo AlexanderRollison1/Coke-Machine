@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 //Code3_1001681800.cpp, .cpp, .h
 
 #include <iostream>
